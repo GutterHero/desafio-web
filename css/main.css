@@ -8,22 +8,27 @@ nav {
   justify-content: space-between;
   transition-duration: 0.5s;
   transition-timing-function: ease; }
-  nav nav ul {
-    list-style-type: none; }
-  nav nav ul li {
-    display: inline-block;
-    margin: 0 10px;
-    padding-right: 150px; }
-  nav nav ul li a:hover {
-    color: red;
-    font-family: 'Anek Tamil', sans-serif;
-    transform: scale(1); }
-  nav .img-nav {
-    width: 110px;
-    height: 110px; }
-  nav a {
-    color: white;
-    font-family: 'Anek Tamil', sans-serif; }
+
+nav ul {
+  list-style-type: none; }
+
+nav ul li {
+  display: inline-block;
+  margin: 0 10px;
+  padding-right: 150px; }
+
+nav ul li a:hover {
+  color: red;
+  font-family: 'Anek Tamil', sans-serif;
+  transform: scale(1); }
+
+.img-nav {
+  width: 110px;
+  height: 110px; }
+
+a {
+  color: white;
+  font-family: 'Anek Tamil', sans-serif; }
 
 /*Estilo header*/
 h1 {
