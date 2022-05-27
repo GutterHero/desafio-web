@@ -38,9 +38,11 @@ nav ul li a:hover{
 
 }
 
-a{
-    color: white;
+a:hover{
+    color: rgb(255, 0, 247) !important;
     font-family: 'Anek Tamil', sans-serif;
+
+    transform: scale(1);
 }
 
 /*Estilo header*/

@@ -26,9 +26,10 @@ nav ul li a:hover {
   width: 110px;
   height: 110px; }
 
-a {
-  color: white;
-  font-family: 'Anek Tamil', sans-serif; }
+a:hover {
+  color: #ff00f7 !important;
+  font-family: 'Anek Tamil', sans-serif;
+  transform: scale(1); }
 
 /*Estilo header*/
 h1 {
